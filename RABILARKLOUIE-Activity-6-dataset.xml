@@ -43,6 +43,38 @@
 		<year2006>8.6</year2006>
 		<year2007>8.1</year2007>
 	</years>
+
+
+	<country id="4"> Belgium </country>
+	<years>
+		<year1998>5.4</year1998>
+		<year1999>5.3</year1999>
+		<year2000>6.1</year2000>
+		<year2001>6.6</year2001>
+		<year2002>7.1</year2002>
+		<year2003>7.6</year2003>
+		<year2004>7.5</year2004>
+		<year2005>7.4</year2005>
+		<year2006>7.3</year2006>
+		<year2007>7.1</year2007>
+	</years>
+
+
+	<country id="5"> Canada </country>
+	<years>
+		<year1998>9.2</year1998>
+		<year1999>9.2</year1999>
+		<year2000>9.2</year2000>
+		<year2001>8.9</year2001>
+		<year2002>9</year2002>
+		<year2003>8.7</year2003>
+		<year2004>8.5</year2004>
+		<year2005>8.4</year2005>
+		<year2006>8.5</year2006>
+		<year2007>8.7</year2007>
+	</years>
+
+
 	
 
 
