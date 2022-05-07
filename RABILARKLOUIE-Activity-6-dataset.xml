@@ -113,7 +113,7 @@
 		<year1998>9.6</year1998>
 		<year1999>9.8</year1999>
 		<year2000>10</year2000>
-		<year2001>9.98</year2001>
+		<year2001>9.9</year2001>
 		<year2002>9.7</year2002>
 		<year2003>9.7</year2003>
 		<year2004>9.7</year2004>
@@ -121,6 +121,74 @@
 		<year2006>9.6</year2006>
 		<year2007>9.4</year2007>
 	</years>
+
+
+	<country id="9"> Philippines </country>
+	<years>
+		<year1998>3.3</year1998>
+		<year1999>3.6</year1999>
+		<year2000>2.8</year2000>
+		<year2001>2.9</year2001>
+		<year2002>2.6</year2002>
+		<year2003>2.5</year2003>
+		<year2004>2.6</year2004>
+		<year2005>2.5</year2005>
+		<year2006>2.5</year2006>
+		<year2007>2.5</year2007>
+	</years>
+
+
+	<country id="10"> Poland </country>
+	<years>
+		<year1998>4.6</year1998>
+		<year1999>4.2</year1999>
+		<year2000>4.1</year2000>
+		<year2001>4.1</year2001>
+		<year2002>4</year2002>
+		<year2003>3.6</year2003>
+		<year2004>3.5</year2004>
+		<year2005>3.4</year2005>
+		<year2006>3.7</year2006>
+		<year2007>3.2</year2007>
+	</years>
+
+
+	<country id="11"> Spain </country>
+	<years>
+		<year1998>6.1</year1998>
+		<year1999>6.6</year1999>
+		<year2000>7</year2000>
+		<year2001>7</year2001>
+		<year2002>7.1</year2002>
+		<year2003>6.9</year2003>
+		<year2004>7.1</year2004>
+		<year2005>7</year2005>
+		<year2006>6.8</year2006>
+		<year2007>6.7</year2007>
+	</years>
+
+
+	<country id="12"> Zambia </country>
+	<years>
+		<year1998>3.5</year1998>
+		<year1999>3.5</year1999>
+		<year2000>3.4</year2000>
+		<year2001>2.6</year2001>
+		<year2002>2.6</year2002>
+		<year2003>2.5</year2003>
+		<year2004>2.6</year2004>
+		<year2005>2.6</year2005>
+		<year2006>2.6</year2006>
+		<year2007>2.6</year2007>
+	</years>
+
+
+
+
+
+
+
+
 
 
 	
