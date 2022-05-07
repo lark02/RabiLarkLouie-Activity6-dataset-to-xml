@@ -75,6 +75,54 @@
 	</years>
 
 
+
+	<country id="6"> Denmark </country>
+	<years>
+		<year1998>10</year1998>
+		<year1999>10</year1999>
+		<year2000>9.8</year2000>
+		<year2001>9.5</year2001>
+		<year2002>9.5</year2002>
+		<year2003>9.5</year2003>
+		<year2004>9.5</year2004>
+		<year2005>9.5</year2005>
+		<year2006>9.5</year2006>
+		<year2007>9.4</year2007>
+	</years>
+
+
+
+	<country id="7"> Ecuador </country>
+	<years>
+		<year1998>2.3</year1998>
+		<year1999>2.4</year1999>
+		<year2000>2.6</year2000>
+		<year2001>2.3</year2001>
+		<year2002>2.2</year2002>
+		<year2003>2.2</year2003>
+		<year2004>2.4</year2004>
+		<year2005>2.5</year2005>
+		<year2006>2.3</year2006>
+		<year2007>2.1</year2007>
+	</years>
+
+
+
+	<country id="8"> Finland </country>
+	<years>
+		<year1998>9.6</year1998>
+		<year1999>9.8</year1999>
+		<year2000>10</year2000>
+		<year2001>9.98</year2001>
+		<year2002>9.7</year2002>
+		<year2003>9.7</year2003>
+		<year2004>9.7</year2004>
+		<year2005>9.6</year2005>
+		<year2006>9.6</year2006>
+		<year2007>9.4</year2007>
+	</years>
+
+
 	
 
 
