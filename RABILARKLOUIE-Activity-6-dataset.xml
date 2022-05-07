@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+
+
+<corruption-perception-index>
+	<country id="1"> Argentina </country>
+	<years>
+		<year1998>3</year1998>
+		<year1999>3</year1999>
+		<year2000>3.5</year2000>
+		<year2001>3.5</year2001>
+		<year2002>2.8</year2002>
+		<year2003>2.5</year2003>
+		<year2004>2.5</year2004>
+		<year2005>2.8</year2005>
+		<year2006>2.9</year2006>
+		<year2007>2.9</year2007>
+	</years>
+
+	<country id="2"> Australia </country>
+	<years>
+		<year1998>8.7</year1998>
+		<year1999>8.7</year1999>
+		<year2000>8.3</year2000>
+		<year2001>8.5</year2001>
+		<year2002>8.6</year2002>
+		<year2003>8.8</year2003>
+		<year2004>8.8</year2004>
+		<year2005>8.8</year2005>
+		<year2006>8.7</year2006>
+		<year2007>8.6</year2007>
+	</years>
+	
+
+
+
+
+
+
+
+
+</corruption-perception-index>
+
+
+
+
