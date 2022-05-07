@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 
 
+<!DOCTYPE corruption-perception-index [
+	<!ELEMENT corruption-perception-index (country, years)>
+	<!ELEMENT years (year1998, year1999, year2000, year2001, year2002, year2003, year2004, year2005, year2006, year2007)>
+
+	<!ELEMENT country (#PCDATA)>
+	<!ELEMENT years (#PCDATA)>
+	<!ELEMENT year1998 (#PCDATA)>
+	<!ELEMENT year1999 (#PCDATA)>
+	<!ELEMENT year2000 (#PCDATA)>
+	<!ELEMENT year2001 (#PCDATA)>
+	<!ELEMENT year2002 (#PCDATA)>
+	<!ELEMENT year2003 (#PCDATA)>
+	<!ELEMENT year2004 (#PCDATA)>
+	<!ELEMENT year2005 (#PCDATA)>
+	<!ELEMENT year2006 (#PCDATA)>
+	<!ELEMENT year2007 (#PCDATA)>
+
+
+	<!ATTLIST country id CDATA #REQUIRED>
+
+
+]>
+
 <corruption-perception-index>
 	<country id="1"> Argentina </country>
 	<years>
@@ -183,25 +206,6 @@
 	</years>
 
 
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
 </corruption-perception-index>
-
-
 
 
